@@ -4,21 +4,24 @@ Seja bem-vindo ao meu espaço de desenvolvimento! Atualmente, estou em transiç�
 
 Aqui você vai encontrar os projetos práticos que desenvolvo para consolidar meu aprendizado em arquitetura de dados, pipelines de ETL/ELT e automação.
 
-### 🛠️ Minhas Habilidades (O que já coloco em prática)
-- **Linguagens:** Python e SQL
-- **Big Data & Processamento:** Apache Spark (PySpark), Databricks
-- **Orquestração:** Apache Airflow
-- **Modelagem de dados e Arquitetura de Medalhão** (camadas Bronze, Silver, Gold).
-- **Cloud & Infra:** AWS / Azure
-- **Bancos de Dados:** PostgreSQL, MySQL
-- **Boas Práticas:** Versionamento de código com Git/GitHub.
+## 🛠️ Habilidades Técnicas
 
-### 📚 No Meu Radar (O que estou aprendendo/aprofundando agora)
-- Processamento de Dados: Conceitos de Big Data e manipulação de DataFrames com **PySpark**.
-- Conceitos de Data Warehouses e Data Lakes em Cloud (AWS/Azure).
-- Orquestração de pipelines de dados (Apache Airflow).
-- Snowflake
+### 📈 Engenharia de Dados & Processamento
+* **Linguagens:** Python, SQL (T-SQL, MySql)
+* **Big Data & Cloud Data Platforms:** Databricks, Apache Spark (Foco em transformações e manipulação de dados via Spark SQL)
+* **Arquitetura & Modelagem:** Engenharia de dados utilizando Arquitetura Medalhão (Camadas Bronze, Silver, Gold), conceitos de Data Lakes e Data Warehouses.
+
+### ☁️ Infraestrutura & Bancos de Dados
+* **Cloud Platform:** AWS (Experiência prática em ambiente corporativo)
+* **Bancos de Dados:** SQL Server, MySQL
+* **Ferramentas de Desenvolvimento:** Versionamento de código com Git & GitHub
+
+---
+
+## 📚 No Meu Radar (Desenvolvimento Contínuo)
+* **Orquestração de Dados:** Apache Airflow (Desenvolvendo projetos práticos de pipelines)
+* **Modern Data Stack:** Snowflake e aprofundamento em conceitos de Cloud Data Warehouses
+* **Evolução em Big Data:** Aprofundamento em manipulação e otimização de DataFrames com PySpark
 
 ### 🚀 Projetos em Destaque
-- [Nome do Projeto 1](link-do-repositorio): Pipeline de ETL automatizado consumindo dados de API financeira e populando um Data Lake em camadas (Bronze, Silver, Gold).
-- [Nome do Projeto 2](link-do-repositorio): Automação e triagem de arquivos dinâmicos com Python e validação de metadados.
+- [ETL Participantes Pix](https://github.com/NathiNanda/etl-participants-pix.git): Pipeline de ETL automatizado consumindo dados de API pública de participantes do PIX da BrasilAPI, limpa e transforma esses dados utilizando Python e Pandas, carrega-os em um banco de dados relacional SQLite local e exibe análises interativas através de um dashboard construído com Streamlit e Altair.
