@@ -25,3 +25,5 @@ Aqui você vai encontrar os projetos práticos que desenvolvo para consolidar me
 
 ### 🚀 Projetos em Destaque
 - [ETL Participantes Pix](https://github.com/NathiNanda/etl-participants-pix.git): Pipeline de ETL automatizado consumindo dados de API pública de participantes do PIX da BrasilAPI, limpa e transforma esses dados utilizando Python e Pandas, carrega-os em um banco de dados relacional SQLite local e exibe análises interativas através de um dashboard construído com Streamlit e Altair.
+
+- [ETL Python DuckDb DBT](https://github.com/NathiNanda/elt-python-duckdb-dbt.git): Pipeline de dados local (ELT) que consome cotações de moedas (AwesomeAPI) em Python, armazena em JSON bruto e realiza transformações e testes de qualidade no DuckDB utilizando dbt-core.
