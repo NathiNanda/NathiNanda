@@ -1,17 +1,19 @@
 # Olá, eu sou a Nathiele Fernanda! 👋
 
-Seja bem-vindo ao meu espaço de desenvolvimento e engenharia de dados! 
+Seja bem-vindo ao meu espaço de desenvolvimento e aprofundamento em Engenharia de Dados! 
 
-Sou uma profissional com sólida trajetória em Inteligência de Mercado e Business Intelligence (tendo atuado desde a base técnica até a Coordenação de equipes), atualmente focada 100% em **Engenharia de Dados**. 
+Sou uma profissional com sólida trajetória na área de Dados (tendo atuado desde a base técnica até a Coordenação de equipes), atualmente focada 100% em especialização técnica e amadurecimento de habilidades em **Engenharia de Dados**.
 
-Minha bagagem prática inclui a modernização de infraestruturas de dados em diferentes cenários corporativos: atuei na migração de fluxos legados para o **Databricks** e manipulação de dados de grandes ERPs (SAP/TOTVS) em uma organização, e no gerenciamento de ambientes em nuvem (**AWS - S3/RDS/EC2**) e ingestão via APIs em outra. Uno uma forte visão de negócios à capacidade técnica de construir pipelines de dados eficientes, escaláveis e limpos.
+Minha bagagem prática inclui a implantação e modernização de infraestruturas de dados em diferentes cenários corporativos. Desde ETL, Modelagem de Dados à implantação de Banco de dados local e em Nuvem, bem como criação e otimização de Dashboards em Power BI.
+
+Atuação no projeto de Implantação do Databricks (rodando sobre a infraestrutura Microsoft Azure) para migração de todo o processo de ETL e dos dados do sistema legado Microsoft Access para o Lakehouse. Adaptação de códigos SQL, reorganização, tratativa de erros e otimização de etapas de transformação de dados eliminando redundâncias e aplicando modularização para geração de relatórios eficientes.
 
 ---
 
 ## 🛠️ Habilidades Técnicas & Fundamentos
 
 ### 📈 Engenharia, Processamento & Transformação
-*   **Linguagens:** Python, SQL
+*   **Linguagens:** Python, SQL, PySpark
 *   **Big Data & Cloud Platforms:** Databricks, Apache Spark
 *   **Modern Data Stack (MDS):** dbt Core (Modelagem, testes de qualidade e documentação), DuckDB
 *   **Arquitetura:** Data Lakes, Data Warehouses, Arquitetura Medalhão.
@@ -44,10 +46,3 @@ Pipeline ELT local focado em performance e qualidade de dados de cotações de m
 Pipeline ponta a ponta focado em consumo de APIs públicas e entrega de valor para o negócio.
 *   **Como funciona:** Consome dados da API de participantes do PIX (BrasilAPI), realiza a limpeza e transformação com **Python/Pandas**, armazena em um banco relacional **SQLite** e disponibiliza um dashboard analítico interativo via **Streamlit e Altair**.
 *   **Tecnologias:** Python, Pandas, SQLite, Streamlit, Altair.
-
----
-
-## 💼 Destaques da Trajetória Profissional
-
-*   **MRO Serviços de Planejamento de Estoques (Analista Pleno):** Atuação *hands-on* apoiando Cientistas de Dados na implantação de um Data Lake, executando tarefas de migração de fluxos do MS Access para o **Databricks**. Construção de pipelines e queries SQL para tratar dados brutos originados do **SAP e TOTVS**.
-*   **Nova Rede Drogarias (Coordenadora de Inteligência de Mercado):** Estruturação da área de dados. Implementação de rotinas de ingestão e automação via APIs com Python, gerenciamento de bases relacionais em nuvem utilizando **Amazon RDS** e armazenamento no **S3**, conectando os dados a dashboards estratégicos em Power BI.
