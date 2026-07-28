@@ -26,8 +26,9 @@ Atuação no projeto de Implantação do Databricks (rodando sobre a infraestrut
 
 ### 📚 Fundamentos
 Aplico em meus projetos os conceitos de engenharia e arquitetura consolidados através de leituras técnicas essenciais:
-*   *"Fundamentos da Engenharia de Dados"* (Joe Reis & Matt Housley).
+*   *"Fundamentals of Data Engineering"* (Joe Reis & Matt Housley).
 *   *"Data Pipelines Pocket Reference"* (James Densmore).
+*   *"Designing Data-Intensive Applications"* (Martin Kleppmann).
 ---
 
 ## 🚀 Projetos em Destaque
